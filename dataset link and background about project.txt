@@ -1,0 +1,9 @@
+Credit Default Prediction
+The data set consists of 2000 samples from each of two categories. Five variables are
+
+Income
+Age
+Loan
+Loan to Income (engineered feature)
+Default
+Dataset: https://github.com/ybifoundation/Dataset/raw/main/Credit%20Default.csv
